@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beka\\source\\repos\\homework2\\homework2\\homework2.csproj": {}
+    "C:\\Users\\Beka\\Desktop\\Homeworks\\homework2\\homework2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beka\\source\\repos\\homework2\\homework2\\homework2.csproj": {
+    "C:\\Users\\Beka\\Desktop\\Homeworks\\homework2\\homework2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\homework2\\homework2\\homework2.csproj",
+        "projectUniqueName": "C:\\Users\\Beka\\Desktop\\Homeworks\\homework2\\homework2.csproj",
         "projectName": "homework2",
-        "projectPath": "C:\\Users\\Beka\\source\\repos\\homework2\\homework2\\homework2.csproj",
+        "projectPath": "C:\\Users\\Beka\\Desktop\\Homeworks\\homework2\\homework2.csproj",
         "packagesPath": "C:\\Users\\Beka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beka\\source\\repos\\homework2\\homework2\\obj\\",
+        "outputPath": "C:\\Users\\Beka\\Desktop\\Homeworks\\homework2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beka\\AppData\\Roaming\\NuGet\\NuGet.Config",

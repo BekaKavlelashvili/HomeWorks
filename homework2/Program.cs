@@ -6,8 +6,10 @@ namespace homework2
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Beka Kavlelashvili");
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine(Console.ReadLine());
+            
         }
     }
 }
