@@ -1,0 +1,15 @@
+C:\Users\Beka\source\repos\Homeworks\Homeworks\bin\Debug\net5.0\Homeworks2.exe
+C:\Users\Beka\source\repos\Homeworks\Homeworks\bin\Debug\net5.0\Homeworks2.deps.json
+C:\Users\Beka\source\repos\Homeworks\Homeworks\bin\Debug\net5.0\Homeworks2.runtimeconfig.json
+C:\Users\Beka\source\repos\Homeworks\Homeworks\bin\Debug\net5.0\Homeworks2.runtimeconfig.dev.json
+C:\Users\Beka\source\repos\Homeworks\Homeworks\bin\Debug\net5.0\Homeworks2.dll
+C:\Users\Beka\source\repos\Homeworks\Homeworks\bin\Debug\net5.0\ref\Homeworks2.dll
+C:\Users\Beka\source\repos\Homeworks\Homeworks\bin\Debug\net5.0\Homeworks2.pdb
+C:\Users\Beka\source\repos\Homeworks\Homeworks\obj\Debug\net5.0\Homeworks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beka\source\repos\Homeworks\Homeworks\obj\Debug\net5.0\Homeworks2.AssemblyInfoInputs.cache
+C:\Users\Beka\source\repos\Homeworks\Homeworks\obj\Debug\net5.0\Homeworks2.AssemblyInfo.cs
+C:\Users\Beka\source\repos\Homeworks\Homeworks\obj\Debug\net5.0\Homeworks2.csproj.CoreCompileInputs.cache
+C:\Users\Beka\source\repos\Homeworks\Homeworks\obj\Debug\net5.0\Homeworks2.dll
+C:\Users\Beka\source\repos\Homeworks\Homeworks\obj\Debug\net5.0\ref\Homeworks2.dll
+C:\Users\Beka\source\repos\Homeworks\Homeworks\obj\Debug\net5.0\Homeworks2.pdb
+C:\Users\Beka\source\repos\Homeworks\Homeworks\obj\Debug\net5.0\Homeworks2.genruntimeconfig.cache
