@@ -1,0 +1,16 @@
+C:\Users\Beka\source\repos\homework7\homework7\bin\Debug\net5.0\homework7.exe
+C:\Users\Beka\source\repos\homework7\homework7\bin\Debug\net5.0\homework7.deps.json
+C:\Users\Beka\source\repos\homework7\homework7\bin\Debug\net5.0\homework7.runtimeconfig.json
+C:\Users\Beka\source\repos\homework7\homework7\bin\Debug\net5.0\homework7.runtimeconfig.dev.json
+C:\Users\Beka\source\repos\homework7\homework7\bin\Debug\net5.0\homework7.dll
+C:\Users\Beka\source\repos\homework7\homework7\bin\Debug\net5.0\ref\homework7.dll
+C:\Users\Beka\source\repos\homework7\homework7\bin\Debug\net5.0\homework7.pdb
+C:\Users\Beka\source\repos\homework7\homework7\obj\Debug\net5.0\homework7.csproj.AssemblyReference.cache
+C:\Users\Beka\source\repos\homework7\homework7\obj\Debug\net5.0\homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beka\source\repos\homework7\homework7\obj\Debug\net5.0\homework7.AssemblyInfoInputs.cache
+C:\Users\Beka\source\repos\homework7\homework7\obj\Debug\net5.0\homework7.AssemblyInfo.cs
+C:\Users\Beka\source\repos\homework7\homework7\obj\Debug\net5.0\homework7.csproj.CoreCompileInputs.cache
+C:\Users\Beka\source\repos\homework7\homework7\obj\Debug\net5.0\homework7.dll
+C:\Users\Beka\source\repos\homework7\homework7\obj\Debug\net5.0\ref\homework7.dll
+C:\Users\Beka\source\repos\homework7\homework7\obj\Debug\net5.0\homework7.pdb
+C:\Users\Beka\source\repos\homework7\homework7\obj\Debug\net5.0\homework7.genruntimeconfig.cache
