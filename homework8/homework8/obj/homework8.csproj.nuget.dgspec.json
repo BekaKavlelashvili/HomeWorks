@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beka\\source\\repos\\homework8\\homework8\\homework8.csproj": {}
+    "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework8\\homework8\\homework8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beka\\source\\repos\\homework8\\homework8\\homework8.csproj": {
+    "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework8\\homework8\\homework8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\homework8\\homework8\\homework8.csproj",
+        "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework8\\homework8\\homework8.csproj",
         "projectName": "homework8",
-        "projectPath": "C:\\Users\\Beka\\source\\repos\\homework8\\homework8\\homework8.csproj",
+        "projectPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework8\\homework8\\homework8.csproj",
         "packagesPath": "C:\\Users\\Beka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beka\\source\\repos\\homework8\\homework8\\obj\\",
+        "outputPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework8\\homework8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beka\\AppData\\Roaming\\NuGet\\NuGet.Config",

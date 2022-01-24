@@ -1,0 +1,16 @@
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\bin\Debug\net5.0\homework9_exercise2.exe
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\bin\Debug\net5.0\homework9_exercise2.deps.json
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\bin\Debug\net5.0\homework9_exercise2.runtimeconfig.json
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\bin\Debug\net5.0\homework9_exercise2.runtimeconfig.dev.json
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\bin\Debug\net5.0\homework9_exercise2.dll
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\bin\Debug\net5.0\ref\homework9_exercise2.dll
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\bin\Debug\net5.0\homework9_exercise2.pdb
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\obj\Debug\net5.0\homework9_exercise2.csproj.AssemblyReference.cache
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\obj\Debug\net5.0\homework9_exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\obj\Debug\net5.0\homework9_exercise2.AssemblyInfoInputs.cache
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\obj\Debug\net5.0\homework9_exercise2.AssemblyInfo.cs
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\obj\Debug\net5.0\homework9_exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\obj\Debug\net5.0\homework9_exercise2.dll
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\obj\Debug\net5.0\ref\homework9_exercise2.dll
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\obj\Debug\net5.0\homework9_exercise2.pdb
+C:\Users\Beka\source\repos\homework9_exercise2\homework9_exercise2\obj\Debug\net5.0\homework9_exercise2.genruntimeconfig.cache

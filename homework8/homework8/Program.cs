@@ -171,7 +171,7 @@ namespace homework8
         // da mtavrdeba aq.
 
         //aqedan iwyeba saxlshi gasaketebeli davalebebi.
-        static int task4()
+        static void task4()
         {
             int count = 1;
             Console.WriteLine("Enter min number :");
@@ -186,10 +186,11 @@ namespace homework8
                 if (Math.Pow(i, n) >= a && Math.Pow(i, n) <= b)
                 {
                     Console.WriteLine("--------------");
+                    count++;
                     Console.WriteLine(i);
                 }
             }
-            return count;
+            Console.WriteLine($"raodenoba : {count}");
 
         }
 
@@ -263,17 +264,18 @@ namespace homework8
         static int task8() //n-s ver vanawevreb.
         {
             int n = Convert.ToInt32(Console.ReadLine());
-            if(n > 9)
+            if (n > 10)
             {
                 Console.WriteLine(n);
                 return n;
             }
             else
             {
-                Console.WriteLine(n);
-                return 0;
+                int l = n % 5;
+                Console.WriteLine(n % 5 + "-");
+                return l;
             }
-        } 
+        }
     }
 }
 

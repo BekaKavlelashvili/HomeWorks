@@ -60,77 +60,77 @@ namespace homework7
             #endregion
 
             #region exercise 4.  
-            //int normal_workday = 8;
-            //int salary_per_hour = 10;
-            //int salary_per_overtime_hour = 15;
-            //int weekend_salary_per_hour = 20;
-            //int normal_salary_per_day = 80;
+            int normal_workday = 8;
+            int salary_per_hour = 10;
+            int salary_per_overtime_hour = 15;
+            int weekend_salary_per_hour = 20;
+            int normal_salary_per_day = 80;
 
-            //Console.WriteLine("Enter your monday working hours");
-            //int monday = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Enter your tuesday working hours");
-            //int tuesday = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Enter your wednesday working hours");
-            //int wednesday = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Enter your thursday working hours");
-            //int thursday = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Enter your friday working hours");
-            //int friday = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Enter your saturday working hours");
-            //int saturday = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Enter your sunday working hours");
-            //int sunday = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter your monday working hours");
+            int monday = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter your tuesday working hours");
+            int tuesday = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter your wednesday working hours");
+            int wednesday = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter your thursday working hours");
+            int thursday = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter your friday working hours");
+            int friday = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter your saturday working hours");
+            int saturday = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter your sunday working hours");
+            int sunday = Convert.ToInt32(Console.ReadLine());
 
-            //int m, t, w, th, fr;
-            //int sat = saturday * weekend_salary_per_hour;
-            //int sun = sunday * weekend_salary_per_hour;
-            //if (true)
-            //{
-            //    if (monday > normal_workday)
-            //    {
-            //         m = (monday - normal_workday) * salary_per_overtime_hour + normal_salary_per_day;
-            //    }
-            //    else
-            //    {
-            //         m = monday * salary_per_hour;
-            //    }
-            //    if (tuesday > normal_workday)
-            //    {
-            //         t = (tuesday - normal_workday) * salary_per_overtime_hour + normal_salary_per_day;
-            //    }
-            //    else
-            //    {
-            //         t = tuesday * salary_per_hour;
-            //    }
-            //    if (wednesday > normal_workday)
-            //    {
-            //         w = (wednesday - normal_workday) * salary_per_overtime_hour + normal_salary_per_day;
-            //    }
-            //    else
-            //    {
-            //         w = wednesday * salary_per_hour;
-            //    }
-            //    if (thursday > normal_workday)
-            //    {
-            //         th = (thursday - normal_workday) * salary_per_overtime_hour + normal_salary_per_day;
-            //    }
-            //    else
-            //    {
-            //         th = thursday * salary_per_hour;
+            int m, t, w, th, fr;
+            int sat = saturday * weekend_salary_per_hour;
+            int sun = sunday * weekend_salary_per_hour;
+            if (true)
+            {
+                if (monday > normal_workday)
+                {
+                    m = (monday - normal_workday) * salary_per_overtime_hour + normal_salary_per_day;
+                }
+                else
+                {
+                    m = monday * salary_per_hour;
+                }
+                if (tuesday > normal_workday)
+                {
+                    t = (tuesday - normal_workday) * salary_per_overtime_hour + normal_salary_per_day;
+                }
+                else
+                {
+                    t = tuesday * salary_per_hour;
+                }
+                if (wednesday > normal_workday)
+                {
+                    w = (wednesday - normal_workday) * salary_per_overtime_hour + normal_salary_per_day;
+                }
+                else
+                {
+                    w = wednesday * salary_per_hour;
+                }
+                if (thursday > normal_workday)
+                {
+                    th = (thursday - normal_workday) * salary_per_overtime_hour + normal_salary_per_day;
+                }
+                else
+                {
+                    th = thursday * salary_per_hour;
 
-            //    }
-            //    if (friday > normal_workday)
-            //    {
-            //         fr = (friday - normal_workday) * salary_per_overtime_hour + normal_salary_per_day;
-            //    }
-            //    else
-            //    {
-            //         fr = friday * salary_per_hour;
-            //    }
-            //    Console.WriteLine("---------------");
-            //    Console.WriteLine("your salary is - ");
-            //    Console.WriteLine(m + t + w + th + fr + sat + sun);
-            //}
+                }
+                if (friday > normal_workday)
+                {
+                    fr = (friday - normal_workday) * salary_per_overtime_hour + normal_salary_per_day;
+                }
+                else
+                {
+                    fr = friday * salary_per_hour;
+                }
+                Console.WriteLine("---------------");
+                Console.WriteLine("your salary is - ");
+                Console.WriteLine(m + t + w + th + fr + sat + sun);
+            }
             #endregion
 
             //am logikit mivyevi  magram konsolshi progress ver  vigeb :/.
