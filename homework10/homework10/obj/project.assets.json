@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\homework10\\homework10\\homework10.csproj",
+      "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework10\\homework10\\homework10.csproj",
       "projectName": "homework10",
-      "projectPath": "C:\\Users\\Beka\\source\\repos\\homework10\\homework10\\homework10.csproj",
+      "projectPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework10\\homework10\\homework10.csproj",
       "packagesPath": "C:\\Users\\Beka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beka\\source\\repos\\homework10\\homework10\\obj\\",
+      "outputPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework10\\homework10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Beka\\AppData\\Roaming\\NuGet\\NuGet.Config",

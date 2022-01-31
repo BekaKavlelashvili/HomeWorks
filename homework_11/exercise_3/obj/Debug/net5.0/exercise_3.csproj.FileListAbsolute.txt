@@ -1,0 +1,16 @@
+C:\Users\Beka\source\repos\homework_11\exercise_3\bin\Debug\net5.0\exercise_3.exe
+C:\Users\Beka\source\repos\homework_11\exercise_3\bin\Debug\net5.0\exercise_3.deps.json
+C:\Users\Beka\source\repos\homework_11\exercise_3\bin\Debug\net5.0\exercise_3.runtimeconfig.json
+C:\Users\Beka\source\repos\homework_11\exercise_3\bin\Debug\net5.0\exercise_3.runtimeconfig.dev.json
+C:\Users\Beka\source\repos\homework_11\exercise_3\bin\Debug\net5.0\exercise_3.dll
+C:\Users\Beka\source\repos\homework_11\exercise_3\bin\Debug\net5.0\ref\exercise_3.dll
+C:\Users\Beka\source\repos\homework_11\exercise_3\bin\Debug\net5.0\exercise_3.pdb
+C:\Users\Beka\source\repos\homework_11\exercise_3\obj\Debug\net5.0\exercise_3.csproj.AssemblyReference.cache
+C:\Users\Beka\source\repos\homework_11\exercise_3\obj\Debug\net5.0\exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beka\source\repos\homework_11\exercise_3\obj\Debug\net5.0\exercise_3.AssemblyInfoInputs.cache
+C:\Users\Beka\source\repos\homework_11\exercise_3\obj\Debug\net5.0\exercise_3.AssemblyInfo.cs
+C:\Users\Beka\source\repos\homework_11\exercise_3\obj\Debug\net5.0\exercise_3.csproj.CoreCompileInputs.cache
+C:\Users\Beka\source\repos\homework_11\exercise_3\obj\Debug\net5.0\exercise_3.dll
+C:\Users\Beka\source\repos\homework_11\exercise_3\obj\Debug\net5.0\ref\exercise_3.dll
+C:\Users\Beka\source\repos\homework_11\exercise_3\obj\Debug\net5.0\exercise_3.pdb
+C:\Users\Beka\source\repos\homework_11\exercise_3\obj\Debug\net5.0\exercise_3.genruntimeconfig.cache

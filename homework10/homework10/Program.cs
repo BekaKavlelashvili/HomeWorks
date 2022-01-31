@@ -6,6 +6,7 @@ namespace homework10
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("-----------task 1-----------");
             Fileworker2 fileworker2 = new Fileworker2();
             Console.WriteLine("Enter max value: ");
@@ -21,11 +22,13 @@ namespace homework10
 
             Bank bank = new Bank();
             bank.CheckUserHistory();
-            bank.CalculateLoanPercent(in);
+            bank.CalculateLoanPercent(5);
 
             MicroFinance microFinance = new MicroFinance();         
             microFinance.CheckUserHistory(); 
             microFinance.CalculateLoanPercent(5);
+
+
         }
     }
 }
