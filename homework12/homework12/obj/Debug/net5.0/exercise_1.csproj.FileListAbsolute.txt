@@ -1,0 +1,5 @@
+C:\Users\Beka\source\repos\homework12\homework12\obj\Debug\net5.0\exercise_1.csproj.AssemblyReference.cache
+C:\Users\Beka\source\repos\homework12\homework12\obj\Debug\net5.0\exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beka\source\repos\homework12\homework12\obj\Debug\net5.0\exercise_1.AssemblyInfoInputs.cache
+C:\Users\Beka\source\repos\homework12\homework12\obj\Debug\net5.0\exercise_1.AssemblyInfo.cs
+C:\Users\Beka\source\repos\homework12\homework12\obj\Debug\net5.0\exercise_1.csproj.CoreCompileInputs.cache
