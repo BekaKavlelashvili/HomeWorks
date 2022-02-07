@@ -6229,11 +6229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\homework_11\\homework_11\\exercise_2.csproj",
+      "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\homework_11\\exercise_2.csproj",
       "projectName": "exercise_2",
-      "projectPath": "C:\\Users\\Beka\\source\\repos\\homework_11\\homework_11\\exercise_2.csproj",
+      "projectPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\homework_11\\exercise_2.csproj",
       "packagesPath": "C:\\Users\\Beka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beka\\source\\repos\\homework_11\\homework_11\\obj\\",
+      "outputPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\homework_11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Beka\\AppData\\Roaming\\NuGet\\NuGet.Config",

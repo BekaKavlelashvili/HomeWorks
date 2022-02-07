@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\homework_11\\exercise_3\\exercise_3.csproj",
+      "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\exercise_3\\exercise_3.csproj",
       "projectName": "exercise_3",
-      "projectPath": "C:\\Users\\Beka\\source\\repos\\homework_11\\exercise_3\\exercise_3.csproj",
+      "projectPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\exercise_3\\exercise_3.csproj",
       "packagesPath": "C:\\Users\\Beka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beka\\source\\repos\\homework_11\\exercise_3\\obj\\",
+      "outputPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\exercise_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Beka\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beka\\source\\repos\\homework_11\\exercise_5\\exercise_5.csproj": {}
+    "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\exercise_5\\exercise_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beka\\source\\repos\\homework_11\\exercise_5\\exercise_5.csproj": {
+    "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\exercise_5\\exercise_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\homework_11\\exercise_5\\exercise_5.csproj",
+        "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\exercise_5\\exercise_5.csproj",
         "projectName": "exercise_5",
-        "projectPath": "C:\\Users\\Beka\\source\\repos\\homework_11\\exercise_5\\exercise_5.csproj",
+        "projectPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\exercise_5\\exercise_5.csproj",
         "packagesPath": "C:\\Users\\Beka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beka\\source\\repos\\homework_11\\exercise_5\\obj\\",
+        "outputPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\exercise_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beka\\AppData\\Roaming\\NuGet\\NuGet.Config",

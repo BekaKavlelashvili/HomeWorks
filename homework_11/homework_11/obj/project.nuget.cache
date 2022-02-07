@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lz4Bo7ygw8bxDxU64Za6XpdL0XO/xfZEHCXqoNYsyFSt7ZafoPwL4ZMoyZzkklorBzVnolywqgJ0ZgZLJ53iog==",
+  "dgSpecHash": "PjYV9ueW1N56P5kgwfRL2NyQ9jbSkQqzbzFyI0Pkv9ssgkMunEC4BCqDlhexlh/c8UtMfR1dw4tjC2ZbIlFiFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Beka\\source\\repos\\homework_11\\homework_11\\exercise_2.csproj",
+  "projectFilePath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\homework_11\\homework_11\\exercise_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Beka\\.nuget\\packages\\ippdotnetsdkforquickbooksapiv3\\14.6.1\\ippdotnetsdkforquickbooksapiv3.14.6.1.nupkg.sha512",
     "C:\\Users\\Beka\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.4\\microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",
