@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beka\\source\\repos\\Homework_13\\Homework_13_exercise1\\exercise_1.csproj": {}
+    "C:\\Users\\Beka\\source\\repos\\Homeworks\\Homework_13\\Homework_13_exercise1\\exercise_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beka\\source\\repos\\Homework_13\\Homework_13_exercise1\\exercise_1.csproj": {
+    "C:\\Users\\Beka\\source\\repos\\Homeworks\\Homework_13\\Homework_13_exercise1\\exercise_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\Homework_13\\Homework_13_exercise1\\exercise_1.csproj",
+        "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\Homeworks\\Homework_13\\Homework_13_exercise1\\exercise_1.csproj",
         "projectName": "exercise_1",
-        "projectPath": "C:\\Users\\Beka\\source\\repos\\Homework_13\\Homework_13_exercise1\\exercise_1.csproj",
+        "projectPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\Homework_13\\Homework_13_exercise1\\exercise_1.csproj",
         "packagesPath": "C:\\Users\\Beka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beka\\source\\repos\\Homework_13\\Homework_13_exercise1\\obj\\",
+        "outputPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\Homework_13\\Homework_13_exercise1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "DocuSign.eSign.dll": {
+              "target": "Package",
+              "version": "[5.8.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
+            },
+            "Napa.DocuSign.eSign.dll": {
+              "target": "Package",
+              "version": "[1.0.9, )"
             }
           },
           "imports": [

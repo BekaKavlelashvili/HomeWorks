@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="DocuSign.eSign.dll" Version="5.8.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+    <PackageReference Include="Napa.DocuSign.eSign.dll" Version="1.0.9" />
   </ItemGroup>
 
 </Project>
