@@ -133,7 +133,7 @@ namespace Homework_14.Controllers
                 new { user = "david", age = 10, id = 6}
             };
 
-            GetrespodentList.RemoveAt(id);
+            GetrespodentList.RemoveAt(--id);
             if (GetrespodentList.Count == 6)
             {
                 return BadRequest("Sorry, respodent was not deleted");

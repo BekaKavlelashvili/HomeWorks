@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beka\\source\\repos\\Homework_14\\Homework_14\\Homework_14.csproj": {}
+    "C:\\Users\\Beka\\source\\repos\\Homeworks\\Homework_14\\Homework_14\\Homework_14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beka\\source\\repos\\Homework_14\\Homework_14\\Homework_14.csproj": {
+    "C:\\Users\\Beka\\source\\repos\\Homeworks\\Homework_14\\Homework_14\\Homework_14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\Homework_14\\Homework_14\\Homework_14.csproj",
+        "projectUniqueName": "C:\\Users\\Beka\\source\\repos\\Homeworks\\Homework_14\\Homework_14\\Homework_14.csproj",
         "projectName": "Homework_14",
-        "projectPath": "C:\\Users\\Beka\\source\\repos\\Homework_14\\Homework_14\\Homework_14.csproj",
+        "projectPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\Homework_14\\Homework_14\\Homework_14.csproj",
         "packagesPath": "C:\\Users\\Beka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beka\\source\\repos\\Homework_14\\Homework_14\\obj\\",
+        "outputPath": "C:\\Users\\Beka\\source\\repos\\Homeworks\\Homework_14\\Homework_14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beka\\AppData\\Roaming\\NuGet\\NuGet.Config",
