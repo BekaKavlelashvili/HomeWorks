@@ -9,29 +9,46 @@ select * from dbo.sysdiagrams
 
 --1
 select count(Eventname) from dbo.event where countryid in(
-	select continentid from dbo.Continent where ContinentName = 'europe'
+	select CountryID from dbo.country where ContinentID in(
+		select ContinentID from Continent where ContinentName = 'europe'
+	)
 )
 
 --2
 select min(eventdate) as oldestEvent from dbo.event where countryid in(
-	select continentid from dbo.Continent where continentname = 'africa'
-)
+	select CountryID from dbo.Country where ContinentID in(
+		select ContinentID from Continent where continentname = 'africa'
+		)
+) 
 
 --3
 select count(countryname) from dbo.Country where continentid in(
+
 SELECT ContinentID FROM DBO.Continent WHERE CONTINENTNAME IN('NORTH AMERICA', 'SOUTH AMERICA')
 )
 
 
 --4
-SELECT count(EVENTDATE) FROM DBO.EVENT WHERE eventdate like '%12-31%' and CategoryID in(
+SELECT count(EVENTDATE) FROM DBO.EVENT WHERE month(eventdate)=1 and day(EventDate) = 1 and CategoryID in(
 	SELECT CategoryID FROM DBO.Category WHERE categoryname = 'economy'
 )
 
 --5
---sportze evropashi ar iyo msgavsi eventi da magito shevcvale tvalsachinoebistvis.
-select max(eventdate) as latestEvent from dbo.event where categoryid in(	
-	select categoryid from dbo.Category where categoryname = 'War and conflict' and countryid in(
-		select continentid from dbo.continent where ContinentName = 'Antarctic'
-	)
+
+select *,
+(select countryname from Country where CountryID=Event.CountryID) 
+
+from Event where CategoryID in
+(
+select CategoryID from Category where CategoryName='Sports'
 )
+and 
+CountryID in (
+SELECT CountryID  
+FROM Country where ContinentID in 
+(
+SELECT ContinentID  
+FROM Continent where ContinentName = 'Europe'
+)
+)
+order by EventDate desc

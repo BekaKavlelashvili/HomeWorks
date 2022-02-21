@@ -25,15 +25,15 @@ join Production.Categories b on a.categoryid =  b.categoryid where unitprice bet
 
 --3
 select a.lastname, a.firstname, b.orderid from hr.Employees a
-join sales.Orders b on b.custid = a.empid where freight > 50
+join sales.Orders b on b.empid = a.empid where freight > 50 and a.title = 'sales manager'
 
 --4
-select b.orderdate, a.contactname, a.city, a.address from Production.suppliers a
-join sales.orders b on a.supplierid = b.custid where orderdate like '%2007%' and a.country = 'usa'
+select a.orderdate, b.contactname, a.shipcity, a.shipaddress from sales.orders a
+join sales.Customers b on a.custid = b.custid where year(orderdate)=2007 and b.country = 'usa'
 
 --5 
 select distinct a.shipcity, b.lastname from sales.orders a
-join hr.Employees b on a.custid = b.empid where b.lastname = 'cameron'
+join hr.Employees b on a.empid = b.empid where b.lastname = 'cameron'
  
  --6
  select sales.orders.orderid, sales.orders.shipcountry, sales.orders.shipcity from sales.orders
@@ -41,34 +41,41 @@ join hr.Employees b on a.custid = b.empid where b.lastname = 'cameron'
 
  --7
  select * from  Production.Products a
- join Production.Suppliers b on a.supplierid = b.supplierid where city= 'tokyo'and discontinued = 1
+ join sales.OrderDetails b on a.productid = b.productid
+ join Production.Suppliers c on a.supplierid = c.supplierid 
+ where c.city = 'tokyo'and b.discount > 0
 
  --8 
- select a.categoryname, a.description  from Production.Categories a
- join Production.Suppliers b on a.categoryid = b.supplierid where country = 'japan'
+ select c.categoryname, a.productname  from Production.Products a
+ join Production.Suppliers b on a.supplierid = b.supplierid 
+ join production.Categories c on a.categoryid = c.categoryid
+ where b.country = 'japan' and c.categoryname in('Beverages', 'seafood')
  
  --9
  select hr.firstname, hr.lastname, a.companyname from hr.Employees hr
- join sales.shippers a on hr.empid = a.shipperid 
- join sales.orders b on hr.empid = b.custid 
+ join sales.orders b on hr.empid = b.empid 
+ join sales.Shippers a on b.shipperid = a.shipperid 
  where hr.firstname in('maria','sara') and  hr.lastname in('cameron','davis') 
  and b.shippeddate like '%2007%'
 
- --10
- select c.productname, a.categoryname from Production.Categories a
- join Production.Suppliers b on a.categoryid = b.supplierid 
- join Production.Products c on c.categoryid = a.categoryid
- where b.country = 'usa'and a.categoryname <> 'Beverages' 
+ --10 
+ select b.productname, a.categoryname from Production.Categories a
+ join Production.Products b on a.categoryid = b.categoryid 
+ join Production.Suppliers c on c.supplierid = b.supplierid
+ where c.country = 'usa'and a.categoryname <> 'Beverages' 
  and a.categoryname <> 'seafood'
 
  --11 
- select c.orderid, a.firstname, a.lastname, a.city,
- b.contactname from hr.Employees a
- join sales.Customers b on  a.empid = b.custid 
-join sales.orders c on a.empid = c.custid 
-where a.city = b.city
+select b.orderid, a.lastname as employeeLastName, a.firstname as employeeFirstName, 
+a.city as commonCity, c.contactname as customerName from hr.Employees a
+join sales.orders b  on  b.empid = a.empid
+join sales.Customers c on b.custid = c.custid
+where c.city= a.city
 
 --12
-select distinct a.contactname, b.categoryname from sales.Customers a
-join Production.Categories b on a.custid = b.categoryid 
-where b.categoryname in('beverages','dairy products')
+select distinct contactname from sales.orders a
+join sales.Customers b on a.custid = b.custid
+join sales.OrderDetails c on a.orderid = c.orderid
+join Production.Products d on d.productid = c.productid
+join Production.Categories e on e.categoryid = d.categoryid
+where e.categoryname in('Beverages', 'dairy products')

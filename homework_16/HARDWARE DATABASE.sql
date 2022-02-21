@@ -28,7 +28,7 @@ SELECT TOP (1000) [ManufacturerId]
 
   --5
   SELECT NAME, PRICE FROM dbo.products WHERE MANUFACTURERID IN(
-	select MANUFACTURERID from dbo.Manufacturers where name <>'genius' and name<>'dell'
+	select MANUFACTURERID from dbo.Manufacturers where name not in('genius', 'dell')
   )
 
   --6

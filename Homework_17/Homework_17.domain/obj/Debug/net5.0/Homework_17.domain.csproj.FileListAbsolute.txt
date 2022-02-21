@@ -1,0 +1,12 @@
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\bin\Debug\net5.0\Homework_17.domain.deps.json
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\bin\Debug\net5.0\Homework_17.domain.dll
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\bin\Debug\net5.0\ref\Homework_17.domain.dll
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\bin\Debug\net5.0\Homework_17.domain.pdb
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\obj\Debug\net5.0\Homework_17.domain.csproj.AssemblyReference.cache
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\obj\Debug\net5.0\Homework_17.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\obj\Debug\net5.0\Homework_17.domain.AssemblyInfoInputs.cache
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\obj\Debug\net5.0\Homework_17.domain.AssemblyInfo.cs
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\obj\Debug\net5.0\Homework_17.domain.csproj.CoreCompileInputs.cache
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\obj\Debug\net5.0\Homework_17.domain.dll
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\obj\Debug\net5.0\ref\Homework_17.domain.dll
+C:\Users\Beka\source\repos\Homework_17\Homework_17.domain\obj\Debug\net5.0\Homework_17.domain.pdb
